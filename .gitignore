@@ -1,0 +1,8 @@
+# Mac
+**/.DS_Store
+
+# IDE
+.vscode
+
+# Project
+node_modules
